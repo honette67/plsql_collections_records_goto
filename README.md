@@ -2,9 +2,13 @@
 _____________________________________________________________
 
 Name: Honette Igiraneza
+
 Id: 27707
+
 Course: Database Development with PL/SQL 
+
 Project title: Employee Attendance Tracker
+
 # Problem Definition
 
 A company wants to monitor the attendance of its employees for a week.
